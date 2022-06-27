@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    color: darkblue;
+}
+h3 {
+    color: darkred;
+    font-size: 24px;
+}
+table {
+    border-spacing: 3px;
+    width: 100%;
+    table-layout: fixed;
+    font-size: 18px;
+}
+th,
+td {
+    padding: 10px 15px;
+    vertical-align: top;
+    text-align: justify;
+}
+.position {
+    text-align: left;
+    color: darkblue;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.position_item {
+    text-align: left;
+    color: darkblue;
+    font-size: 25px;
+    font-style: italic;
+}
+.col1 {
+    width: 160px;
+}
+.col2 {
+    width: 260px;
+}
+.lang_switcher {
+    text-align: center;
+    font-size: 24;
+}
