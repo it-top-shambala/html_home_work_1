@@ -21,6 +21,9 @@ td {
     vertical-align: top;
     text-align: justify;
 }
+ul{
+     margin-top: 0px;    
+}
 .position {
     text-align: left;
     color: darkblue;
@@ -43,4 +46,31 @@ td {
 .lang_switcher {
     text-align: center;
     font-size: 24;
+}
+.list ul li {
+    
+    list-style-type:disc;
+    margin: 20px -20px;
+}
+.list2 ul li {
+    
+    list-style-type:disc;
+    margin-left: -20px;
+    margin-bottom: 5px;
+
+}
+.list3 ul li {
+    
+    list-style-type:circle;
+    margin: 5px -10px;
+    
+
+}
+.list4 ul li {
+    
+    list-style-type:none;
+    margin-left: -30px;
+    margin-bottom: 10px;
+    
+
 }
