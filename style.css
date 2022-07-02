@@ -1,3 +1,4 @@
+
 h1 {
 font-size: 50pt;
     text-align: center;
@@ -18,9 +19,7 @@ text-align: center;
 .text_right{
     text-align: right;
 }
-.text_justify{
-    text-align: justify;
-}
+
 .biography-title{
     color: red;
 }
@@ -28,7 +27,60 @@ text-align: center;
     color: blue;
     font-weight: bolder;
 }
-.text-success{
-    color: green;
-    font-weight: bold;
+
+.visually-hidden{
+    visibility: hidden;
+}
+.page-header{
+    background-image: url("https://codecondo.com/wp-content/uploads/2017/11/Creative-Web-Design.jpg");
+}
+.logo_img{
+    width: 103px ;height: 103px;
+}
+.main-nav-list{
+    width: 1000px;
+    display: flex;
+
+}
+.user-nav-list{
+    position: relative;
+    left: 1500px;
+    width: 500px;
+    display: flex;
+}
+.page-header-link{
+    font-size: 20px;
+    line-height: 16px;
+    text-transform: uppercase;
+}
+.page-header-item{
+    margin-right: 30px;
+}
+.main{
+    background-image: url("https://in-tile.ru/upload/iblock/b7b/b7be7a97272db95856e690651fe70ca0.png");
+}
+.interesting-item{
+    width: 500px;
+}
+.interesting-list{
+    overflow:hidden;
+    display: flex;
+    justify-content: space-between;
+
+}
+.information{
+    background-image: url("https://codecondo.com/wp-content/uploads/2017/11/Creative-Web-Design.jpg");
+}
+.information-right{
+
+}
+.information-widgets{
+    margin-right: 30px;
+}
+.information-widgets-item{
+    width: 20px;
+    height: 20px;
+}
+.information-list-widgets{
+    display: flex;
 }
