@@ -1,0 +1,122 @@
+/*Icon*/
+.header-icon{
+    text-align: center;    
+}
+
+.header-icon-size{
+    height: 200px ;
+    width: 200px;
+}
+
+img.school-icon-size{   
+    height: 200px;
+    width: 300px;   
+    margin-right: 40px;
+}
+
+.chat-icon-size{
+    height: 50px;
+    width: 50px;
+    padding-top: 20px;
+    padding-right: 10px;
+    margin-left: 500px;
+}
+
+/*List*/
+ul.list li{
+    display: inline;   
+    margin-right: 100px;
+    border: 1px solid black;
+    background-image: url(../icon/ListIcon.png);
+    padding: 13px;
+}
+
+ul.list-family li{
+    display: inline-block;   
+    width:33%;       
+}
+
+.list-display{
+    text-align: center;
+    margin-top: 45px;
+}
+
+li{
+    list-style-type: none;
+}
+
+ul{
+    margin: 0;
+}
+/*List-Item*/
+.list-item{
+    font-size: 20px;
+}
+
+/*Link*/
+.link-item{        
+    text-decoration: none;
+    color: black;
+}
+
+/*Section*/
+.section-size{
+    height: 300px;
+}
+
+/*Header*/
+header{
+    background-color:#F0E6DC;
+    height: 300px;    
+}
+
+/*Byography text*/
+h1{    
+   font-size: 35px;   
+   margin: 0;
+}
+
+p{
+    font-size: 18px;   
+    width: 900px;
+    margin-top: 0;    
+    padding-top: 20px;
+}
+
+.heading{
+    text-align: center;    
+    padding-top: 10px;
+}
+
+.start-text{
+    margin-left: 10px;
+    text-align: left;
+}
+
+.new-line{
+    margin-left: 9px;
+}
+
+.family-info{
+    margin-top: 20px;
+    min-height: 200px;
+    min-width: 389px;
+}
+
+/*Main*/
+main{
+    background-color:bisque;
+    height: 800px;     
+}
+
+/*Footer*/
+footer{
+    height: 210px;
+    background-color:darkgray;   
+}
+
+/*Footer Info*/
+.footer-text{
+    padding-top: 33px;
+    padding-left: 560px;    
+}
